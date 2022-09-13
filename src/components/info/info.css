@@ -1,0 +1,19 @@
+div.flex {
+    display: flex;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+div.item-list {
+    width: 100%;
+    margin-right: 30px;
+    display: block;
+    overflow: auto;
+    border-radius: 5px;
+    border: 1px solid rgba(103, 102, 102, 0.31);
+    background-color: rgb(48, 48, 48);
+}
+
+div.thing-info {
+    width: 100%
+}
